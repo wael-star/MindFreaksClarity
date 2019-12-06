@@ -1,0 +1,18 @@
+@import "../styles.scss";
+.main-container{
+    background-image: url(../../assets/bg_1.jpg);
+    background-size: cover;
+}
+.equals h1{
+    color: $light;
+}
+.hero-wrap{
+    height: 100%;
+    overflow: hidden;
+}
+.mt10{
+    margin-top: 15%;
+}
+.transparentcard{
+    width: fit-content;
+}
